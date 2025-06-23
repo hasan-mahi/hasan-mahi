@@ -10,7 +10,7 @@
 ---
 
 # 💫 About Me:
-💻 Currently working on an Apartment Rental Management System<br>🧠 Learning more on development and diving deeper into cloud deployment (AWS)<br>🔭 Past project: Accreditation Card System for the Asian Football Confederation (AFC)<br>🤝 Open to collaboration on full-stack web apps or open-source projects
+💻 Currently working on an Car Service Booking System<br>🧠 Learning more on development and diving deeper into cloud deployment (AWS)<br>🔭 Past project: Accreditation Card System for the Asian Football Confederation (AFC)<br>🤝 Open to collaboration on full-stack web apps or open-source projects
 
 
 ## 🌐 Socials:
