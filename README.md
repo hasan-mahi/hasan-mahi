@@ -10,7 +10,7 @@
 ---
 
 # 💫 About Me:
-🧠 Learning more on development and diving deeper into Machine Learning and AI🔭 Past project: Accreditation Card System for the Asian Football Confederation (AFC)<br>🤝 Open to collaboration on full-stack web apps or open-source projects
+🧠 Learning more on development and diving deeper into Machine Learning and AI</br>🔭 Past project: Accreditation Card System for the Asian Football Confederation (AFC)<br>🤝 Open to collaboration on full-stack web apps or open-source projects
 
 
 ## 🌐 Socials:
